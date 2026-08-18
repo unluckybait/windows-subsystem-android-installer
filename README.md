@@ -47,3 +47,4 @@ Yes. Official WSA requires Pro but this bypasses the restriction.
 
 MIT
  
+ 
